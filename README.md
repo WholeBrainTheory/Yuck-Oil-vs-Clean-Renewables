@@ -1,3 +1,5 @@
+![Yuck Oil! vs Clean Renewables Banner](GitHubBanner-1280x640.png)
+
 # Yuck-Oil-vs-Clean-Renewables
 A collection of human-made public domain graphics about energy sources for a viable future.
 
