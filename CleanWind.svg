@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Clean Wind. Wind Energy, Fusion, Clean, Natural, Cheap, Petroleum, Gas, Gasoline, Oil, Crude, Fracking, Oil Sands, Poison, Waste, Greenhouse Gas, CO2, Carbon Dioxide, Methane, CH4, Natural Gas, 
+Created by Peter MacDougall July 2026.
+This work is marked CC0 1.0 Universal. To view a copy of this mark, visit https://creativecommons.org/publicdomain/zero/1.0/ 
+Wind blowing a wind turbine to represent clean capture of wind energy.
+A depiction of wind energy capture as a happy cloud blowing wind through a turning wind turbine.
+The extraction and use of petroleum products for fuel releases poisons into our environment and harms us directly and indirectly. Wind energy is abundant, clean, and cheap and should be used in place of burning petroleum products for energy.-->
+<svg width="8in" height="3in" clip-rule="evenodd" fill-rule="evenodd" image-rendering="optimizeQuality" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" version="1.1" viewBox="0 0 8000 3000" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <title>Wind Clean And Natural</title>
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str5 {stroke:#7A7A7A;stroke-width:55.56;stroke-miterlimit:22.9256}
+    .str0 {stroke:#0098DA;stroke-width:83.33;stroke-miterlimit:22.9256}
+    .str2 {stroke:#31B454;stroke-width:55.56;stroke-linejoin:round;stroke-miterlimit:22.9256}
+    .str3 {stroke:#0098DA;stroke-width:83.33;stroke-linecap:round;stroke-miterlimit:22.9256}
+    .str4 {stroke:#7A7A7A;stroke-width:55.56;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+    .str8 {stroke:#A7C4D2;stroke-width:27.78;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+    .str7 {stroke:#00A859;stroke-width:83.33;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+    .str1 {stroke:#0098DA;stroke-width:83.33;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+    .str6 {stroke:#A7C4D2;stroke-width:7.87;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+    .fil1 {fill:none}
+    .fil10 {fill:#A7C4D2}
+    .fil4 {fill:url(#id0)}
+    .fil9 {fill:url(#id1)}
+    .fil5 {fill:url(#id2)}
+    .fil0 {fill:url(#id3)}
+    .fil2 {fill:url(#id4)}
+    .fil3 {fill:url(#id5)}
+    .fil6 {fill:url(#id6)}
+    .fil7 {fill:url(#id7)}
+    .fil8 {fill:url(#id8)}
+   ]]>
+  </style>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="4520.72" y1="2551.54" x2="4521.76" y2="2248.26">
+   <stop offset="0" style="stop-opacity:1; stop-color:#18814B"/>
+   <stop offset="0.329412" style="stop-opacity:1; stop-color:#66AA47"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#B5D342"/>
+  </linearGradient>
+  <linearGradient id="id1" gradientUnits="userSpaceOnUse" x1="4407.8" y1="987.24" x2="4572.81" y2="1118.98">
+   <stop offset="0" style="stop-opacity:1; stop-color:#FEFEFE"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#B2D9E9"/>
+  </linearGradient>
+  <linearGradient id="id2" gradientUnits="userSpaceOnUse" xlink:href="#id1" x1="4518.96" y1="2405.43" x2="4518.96" y2="1053.07">
+  </linearGradient>
+  <linearGradient id="id3" gradientUnits="userSpaceOnUse" x1="1603.78" y1="392.19" x2="1577.28" y2="2448.27">
+   <stop offset="0" style="stop-opacity:1; stop-color:#FEFEFE"/>
+   <stop offset="0.482353" style="stop-opacity:1; stop-color:#FEFEFE"/>
+   <stop offset="0.54902" style="stop-opacity:1; stop-color:#FEFEFE"/>
+   <stop offset="0.858824" style="stop-opacity:1; stop-color:#CADEEE"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#CCDCC3"/>
+  </linearGradient>
+  <linearGradient id="id4" gradientUnits="userSpaceOnUse" x1="1062.99" y1="1819.3" x2="1099.48" y2="1412.06">
+   <stop offset="0" style="stop-opacity:1; stop-color:#FAD5E4"/>
+   <stop offset="0.211765" style="stop-opacity:1; stop-color:#FCE9F1"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#FEFEFE"/>
+  </linearGradient>
+  <linearGradient id="id5" gradientUnits="userSpaceOnUse" xlink:href="#id4" x1="2266.15" y1="1759.15" x2="2302.63" y2="1351.9">
+  </linearGradient>
+  <linearGradient id="id6" gradientUnits="userSpaceOnUse" xlink:href="#id1" x1="4846.79" y1="1077.97" x2="4808.68" y2="1401.15">
+  </linearGradient>
+  <linearGradient id="id7" gradientUnits="userSpaceOnUse" xlink:href="#id1" x1="4333.6" y1="731.95" x2="4632.53" y2="603.36">
+  </linearGradient>
+  <linearGradient id="id8" gradientUnits="userSpaceOnUse" xlink:href="#id1" x1="4290.53" y1="1349.4" x2="4029.7" y2="1154.8">
+  </linearGradient>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path class="fil0 str0" d="M2682.22 1482.42c19.22,-1374.65 -1750.1,-1382.09 -2078.25,-397.93 -371.56,-58.26 -557.61,443.26 -224.69,690.42 -283.57,-8.45 -518.46,698.31 343.18,672.54 383.21,-11.47 1611.23,-22.18 1902.6,-26.52 417.55,-6.22 698.78,-716.63 57.15,-938.51z"/>
+  <g id="_2538220251376">
+   <path class="fil1 str0" d="M1873.98 1667.3c257.23,63.77 221.93,301.04 -60.28,245.96 301.99,58.94 158.44,274.58 -84.64,224.24"/>
+   <path class="fil1 str1" d="M701.95 1305.15c185.38,-191.18 469.25,-173.8 660.43,0"/>
+   <path class="fil1 str1" d="M1861.28 1305.15c185.39,-191.18 469.25,-173.8 660.43,0"/>
+   <line class="fil1 str1" x1="1241.87" y1="728.15" x2="888.49" y2= "965.67" />
+   <line class="fil1 str1" x1="2278.87" y1="965.63" x2="1925.44" y2= "728.19" />
+  </g>
+  <ellipse class="fil2" cx="1081.24" cy="1615.68" rx="266.41" ry="192.18"/>
+  <ellipse class="fil3" cx="2284.39" cy="1555.52" rx="266.41" ry="192.18"/>
+  <path class="fil4 str2" d="M3993.8 2538.72c480.74,15.19 606.22,18.06 1054.04,0 36.19,-380.15 -1059.8,-393.46 -1054.04,0z"/>
+  <g id="_2538220218880">
+   <path class="fil1 str3" d="M2252.83 1949.42c743.37,-378.13 1120.35,132.78 1572.97,40.45 452.62,-92.33 580.67,-661.33 227.17,-828.65 -353.5,-167.33 -711.34,366.54 -163.2,569.56"/>
+   <path class="fil1 str3" d="M2273.85 2093.34c326.57,-171.87 704.8,-137.65 975.41,25.78 270.61,163.43 214.46,422.9 5.19,409.75 -209.26,-13.15 -198.96,-309.35 3.2,-252.5"/>
+   <path class="fil1 str3" d="M2244.17 1787.45c678.04,-275.91 816.44,41.56 1057.05,-25.78 240.61,-67.34 240.04,-461.94 -78.39,-464.02 -318.43,-2.08 -193.68,426.52 82.1,255.42"/>
+   <path class="fil1 str3" d="M3256.11 1998.29c318.47,190.71 626.19,59.05 594.34,306.06 -17.28,134 -266.62,140.59 -232.04,-15.05"/>
+  </g>
+  <g id="_2538275019280">
+   <g>
+    <polygon class="fil5 str4" points="4442.38,1053.13 4361.83,2405.43 4676.09,2405.43 4538.23,1053.07 "/>
+    <path class="fil6 str5" d="M4572.81 1118.98c151.53,119.83 433.98,371.96 496.35,293.28 62.36,-78.67 -157.32,-298.3 -335.91,-347.68l-160.44 54.39z"/>
+    <path class="fil7 str5" d="M4506.09 948.72c28.01,-191.14 105.13,-561.82 5.82,-576.5 -99.31,-14.67 -179.68,285.39 -133.14,464.75l127.32 111.75z"/>
+    <path class="fil8 str5" d="M4392 1091.62c-179.54,71.31 -539.11,189.86 -502.17,283.21 36.95,93.34 337,12.91 469.06,-117.07l33.11 -166.14z"/>
+    <path class="fil9 str5" d="M4407.8 987.24c36.38,-45.57 102.81,-53.01 148.37,-16.63 45.57,36.38 53.02,102.81 16.63,148.37 -36.38,45.57 -102.81,53.02 -148.37,16.63 -45.57,-36.38 -53.01,-102.81 -16.63,-148.37z"/>
+   </g>
+   <g>
+    <path class="fil10 str6" d="M5073.07 1435.69c98.44,-129.51 135.79,-287.17 130.33,-448.16 20.28,168.91 -6.78,330.29 -98.51,474.98 -7.41,8.79 -20.53,9.91 -29.32,2.5 -8.79,-7.41 -9.91,-20.53 -2.5,-29.32z"/>
+   </g>
+   <path class="fil1" d="M5088.98 1449.1c91.88,-109.02 131.62,-343.51 114.42,-461.57"/>
+   <g>
+    <path class="fil10" d="M4525.25 348.46c-161.39,-20.5 -316.59,25.98 -453.28,111.21 136.15,-102.02 289.42,-159.28 460.6,-152.18 11.31,2.02 18.85,12.83 16.83,24.14 -2.02,11.31 -12.83,18.85 -24.15,16.83z"/>
+   </g>
+   <path class="fil1" d="M4528.91 327.98c-140.35,-25.06 -363.3,57.77 -456.94,131.7"/>
+   <g>
+    <path class="fil10" d="M3862.59 1375.16c62.94,150.01 180.8,261.19 322.95,336.95 -156.42,-66.89 -282.65,-171.02 -362.09,-322.8 -3.91,-10.81 1.69,-22.74 12.49,-26.65 10.81,-3.91 22.74,1.69 26.65,12.5z"/>
+   </g>
+   <path class="fil1" d="M3843.02 1382.24c48.48,134.08 231.68,285.74 342.52,329.87"/>
+  </g>
+  <g id="_2538275019232">
+   <path class="fil1 str1" d="M5727.38 974.31c8.69,-212.02 -62.43,-246.13 -162.12,-244.23 -99.69,1.9 -146.57,159.35 -144.67,329.99 1.9,170.65 12.59,398.57 144.67,400.85 132.08,2.28 152.37,-91.35 151.14,-256.93"/>
+   <polyline class="fil1 str1" points="5845.58,736.3 5845.58,1467.15 6042.76,1467.15 "/>
+   <g>
+    <polyline class="fil1 str1" points="6153.25,736.3 6153.25,1467.15 6350.42,1467.15 "/>
+    <line class="fil1 str1" x1="6155.39" y1="733.73" x2="6371.75" y2= "733.73" />
+    <line class="fil1 str1" x1="6155.39" y1="985.98" x2="6315.31" y2= "985.98" />
+   </g>
+   <g>
+    <path class="fil1 str1" d="M6481.3 1471.85c-13.9,-249.33 -22.28,-730.84 145.93,-730.84 168.21,0 180.68,475.81 177.21,730.84"/>
+    <line class="fil1 str1" x1="6481.29" y1="1197.79" x2="6788.8" y2= "1197.79" />
+   </g>
+   <polyline class="fil1 str1" points="6932.99,1466.53 6932.99,735.68 7255.14,1466.53 7255.14,735.68 "/>
+  </g>
+  <path class="fil1 str7" d="M7718.13 1163.56c41,406.09 -319.32,394.42 -321.5,127.91 -1.69,-206.52 274.83,-234.33 280.89,-368.94 12.14,-269.84 -280.16,-210.53 -229.19,10.23 60.44,261.76 223.68,512.11 336.64,520.07 47.04,3.31 106.74,-31.93 58.33,-107.3"/>
+  <g id="_2538275003200">
+   <polyline class="fil1 str1" points="5164.29,2342.07 5164.29,1614.54 5465.22,2342.07 5465.22,1614.54 "/>
+   <g>
+    <path class="fil1 str1" d="M5606.91 2342.07c-13.83,-248.2 -22.17,-727.54 145.28,-727.54 167.44,0 179.86,473.66 176.41,727.54"/>
+    <line class="fil1 str1" x1="5626.9" y1="2069.25" x2="5933.02" y2= "2069.25" />
+   </g>
+   <g>
+    <line class="fil1 str1" x1="6071.04" y1="1614.54" x2="6071.04" y2= "2342.07" />
+    <line class="fil1 str1" x1="5915.38" y1="1614.54" x2="6221.5" y2= "1614.54" />
+   </g>
+   <path class="fil1 str1" d="M6317.63 1614.54c-8.65,344.82 2.08,727.54 207.54,727.54 205.46,0 202.34,-365.66 186.78,-727.54"/>
+   <path class="fil1 str1" d="M6844.02 2342.07c0,-242.51 0,-485.02 0,-727.54 169.48,0 369.4,0 352.8,193.25 -16.59,193.25 -175.92,170.52 -313.9,167.67 95.12,122.2 190.24,244.41 285.36,366.61"/>
+   <g>
+    <path class="fil1 str1" d="M7286.06 2342.07c-13.83,-248.2 -22.17,-727.54 145.28,-727.54 167.44,0 179.86,473.66 176.41,727.54"/>
+    <line class="fil1 str1" x1="7286.06" y1="2069.25" x2="7592.17" y2= "2069.25" />
+   </g>
+   <polyline class="fil1 str1" points="7723.72,1614.54 7723.72,2342.07 7907.91,2342.07 "/>
+  </g>
+  <g id="_2538275002816">
+   <path class="fil1 str8" d="M5100.26 1447.7c107.75,-169.26 110.26,-295.47 114.37,-461.35"/>
+   <path class="fil1 str8" d="M4530.45 327.08c-200.46,-8.69 -311.01,52.25 -456.73,131.64"/>
+   <path class="fil1 str8" d="M3844.87 1380.87c92.71,177.94 200.76,243.22 342.36,329.72"/>
+  </g>
+ </g>
+ <metadata><rdf:RDF><cc:Work rdf:about=""><dc:title>Clean Wind</dc:title><dc:date>2026-07-16</dc:date><dc:creator><cc:Agent><dc:title>Peter MacDougall</dc:title></cc:Agent></dc:creator><cc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/><dc:rights><cc:Agent><dc:title>This work is marked CC0 1.0 Universal. To view a copy of this mark, visit https://creativecommons.org/publicdomain/zero/1.0/ </dc:title></cc:Agent></dc:rights><dc:language>English</dc:language>
+ <dc:subject><rdf:Bag><rdf:li>Wind</rdf:li><rdf:li>Clean</rdf:li><rdf:li>Natural</rdf:li><rdf:li>Cheap</rdf:li><rdf:li>Gasoline</rdf:li><rdf:li>Oil</rdf:li><rdf:li>Crude</rdf:li><rdf:li>Fracking</rdf:li><rdf:li>Oil Sands</rdf:li><rdf:li>Petroleum</rdf:li><rdf:li>Greenhouse Gas</rdf:li><rdf:li>CO2</rdf:li><rdf:li>Carbon Dioxide</rdf:li><rdf:li>Methane</rdf:li><rdf:li>CH4</rdf:li><rdf:li>Natural Gas</rdf:li><rdf:li/></rdf:Bag></dc:subject>
+ <dc:description>A depiction of collection of clean wind energy. The extraction and use of petroleum products for fuel releases poisons into our environment and harms us directly and indirectly. Clean, cheap, abundant wind energy should be used instead.</dc:description>
+ </cc:Work><cc:License rdf:about="http://creativecommons.org/publicdomain/zero/1.0/"><cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/><cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/><cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/></cc:License></rdf:RDF></metadata>
+</svg>
