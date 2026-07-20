@@ -22,7 +22,7 @@ We are at a pivotal point in human life; we can transition to a post-carbon ener
 We can have a big bright beautiful tomorrow but it comes from using non-carbon energy sources like solar, wind, tidal, geothermal and nuclear, and not coal, natural gas, or oil. The best time to start was last century. The second best time to start is now.
 
 ## About The Graphics
-These graphics are designed to present simplified but true messages about our energy sources. They are released into the **public domain** so anyone can produce and remix copies for themselves for personal or commercial use. There are multiple ways to push towoard reduced carbon production and to combat climate change and this is but one of them. Use the graphics to make t-shirts, stickers, bumper stickers, signs, billboards, webpages, apps, posts and presentations. Use them to make money on the way to a post-carbon economy. Use them to make ***positive*** change.
+These graphics are designed to present simplified but true messages about our energy sources. They are released into the **public domain** so anyone can produce and remix copies for themselves for personal or commercial use. There are multiple ways to push toward reduced carbon production and to combat climate change and this is one of them. Use the graphics to make t-shirts, stickers, bumper stickers, signs, billboards, webpages, apps, posts and presentations. Use them to make money on the way to a post-carbon economy. Use them to make ***positive*** change.
 
 ## File Details
 Each graphic comes as a Scalable Vector Graphic (SVG) and Portable Network Graphic (PNG) at 300dpi. Many programs can open and manipulate these file formats and they can easily be imported into documents, webpages, apps, presentations and more.
