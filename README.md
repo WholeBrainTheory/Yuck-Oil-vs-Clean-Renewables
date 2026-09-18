@@ -33,8 +33,6 @@ Each graphic comes as a Scalable Vector Graphic (SVG) and Portable Network Graph
 
 ## Updates
 Planned updates include:
-* coal
-* hydroelectric
 * geothermal
 * nuclear
 * heat pumps
